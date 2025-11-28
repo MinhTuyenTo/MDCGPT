@@ -1,0 +1,11 @@
+txtstreamlit
+customtkinter
+google-generativeai
+gspread
+oauth2client
+pillow
+gtts
+pygame
+speechrecognition
+pyaudio
+tkinter
